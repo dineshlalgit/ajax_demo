@@ -1,0 +1,13 @@
+<h1>AJAX</h1>
+<p>AJAX is a web development technique for creating interactive web applications. If you know JavaScript, HTML, CSS, and XML, then you need to spend just one hour to start with AJAX.</p>
+<p>AJAX is a technique for accessing web servers from a web page.</p>
+<p><pre>
+    AJAX is based on the following open standards −
+
+        Browser-based presentation using HTML and Cascading Style Sheets (CSS).
+        Data is stored in XML format and fetched from the server.
+        Behind-the-scenes data fetches using XMLHttpRequest objects in the browser.
+        JavaScript to make everything happen.
+</pre>
+</p>
+<p>AJAX stands for Asynchronous JavaScript And XML.</p>
